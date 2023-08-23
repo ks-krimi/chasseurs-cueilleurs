@@ -37,8 +37,8 @@ Voici comment vous pouvez l'utiliser :
 Voici ce que vous pouvez essayer :
 
 - Changer la saison dans la SELECT.
-- Définir les valeurs initiales des agents loups à l'aide des SLIDER.
-- Définir l'énergie initiale des loups à l'aide des TEXT INPUT.
+- Définir les valeurs initiales des agents à l'aide des SLIDER.
+- Définir l'énergie initiale des agents à l'aide des TEXT INPUT.
 - Définir les variables globales à l'aide des SLIDER.
 - Appuyer sur le boutons **'Mise en place'** pour configurer l'environnement avant d'appuyer sur le bouton **'Démarrer'**.
 
