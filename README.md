@@ -13,7 +13,7 @@ FANOMEZANTSOA Herifiandry Marc Nico
 Voici comment fonctionne ce modèle :
 
 - Les loups mangent des humains et des lapins.
-- Les humains mangent des fruits et des légumes.
+- Les humains mangent des lapins, des fruits et des légumes.
 - Les humains peuvent tuer les loups si leur énergie est supérieure à celle du loup.
 - Les lapins mangent des légumes.
 
